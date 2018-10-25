@@ -1,0 +1,24 @@
+{
+  "name": "krizzu.github.io",
+  "version": "1.0.0",
+  "description": "Krzysztof Borowy's personal website",
+  "scripts": {
+    "start": "echo null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krizzu/krizzu.github.io.git"
+  },
+  "keywords": [
+    "krizzu",
+    "borowy",
+    "kborowy",
+    "krzysztof borowy"
+  ],
+  "author": "Krizzu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krizzu/krizzu.github.io/issues"
+  },
+  "homepage": "https://github.com/Krizzu/krizzu.github.io#readme"
+}
